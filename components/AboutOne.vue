@@ -14,7 +14,7 @@
                                 </h2><!-- /.block-title__title -->
                         </div><!-- /.block-title -->
                            <div class="text-left">
-                            <p> DFI is an international business development advisory firm providing a strategy-through-execution approach.  We deliver sales and market entry, sustainable supply chains, and measurable social and economic impact in emerging markets. </p>
+                            <p> Junkies World Entertainment has been around for a while developing creative talents in the world of entertainment: creating stories and transforming the scripts in to motion pictures on the Big Screen; and, managing and producing musicians. </p>
                            </div>
 
                            <div class="text-left">
