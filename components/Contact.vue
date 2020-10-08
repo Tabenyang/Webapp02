@@ -10,7 +10,7 @@
                           <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">Welcome to my Devops QA website. <br> Devops and Automation is the Futur
                              <br>
-                              Cloud is the best.</p><!-- /.contact-info-one__text -->
+                              Cloud is the best..</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
