@@ -10,7 +10,7 @@
                           <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">Welcome to my Devops QA website. <br> Devops and Automation is the Futur
                              <br>
-                              Cloud is the best.</p><!-- /.contact-info-one__text -->
+                              Cloud is the best..</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
@@ -20,7 +20,7 @@
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">5423 Heavens Dr, <br>
-                               Heavens Ohio, United States of <br> America</p><!-- /.contact-info-one__text -->
+                               Heavens Ohio, US of <br> America</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
