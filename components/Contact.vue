@@ -8,7 +8,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">Welcome to my Devops QA website. <br> Devops and Automation is the Futur
+                          <p class="contact-info-one__text">Welcome to my Sales Demo website. <br> Our product is the best.
                              <br>
                               Cloud is the best..</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
@@ -19,8 +19,8 @@
                               <!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">5423 Heavens Dr, <br>
-                               Heavens Ohio, US of <br> America</p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text">9525 Exam Dr, <br>
+                               Devops Ohio, 43001 <br> America</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
@@ -29,7 +29,7 @@
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Contact Info</h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">devopd@devops.com <br>
-                              614 500 9202 <br> &nbsp; </p><!-- /.contact-info-one__text -->
+                              614 525 3585 <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
               </div><!-- /.row -->
