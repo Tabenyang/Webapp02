@@ -19,7 +19,7 @@
 
                            <div class="text-left">
                                <p>
-                                   Founded 28 years ago, DFI has delivered more than $3 B in contracts and funding across diverse sectors while providing 30-100X ROI for our long-standing clients.  We are active in Africa, Asia, Latin America, and CEE/CIS, DFI’s team of multidisciplinary experts is dedicated to driving business growth and achieving results.
+                                   Founded 29 years ago, DFI has delivered more than $3 B in contracts and funding across diverse sectors while providing 30-100X ROI for our long-standing clients.  We are active in Africa, Asia, Latin America, and CEE/CIS, DFI’s team of multidisciplinary experts is dedicated to driving business growth and achieving results.
                                </p>
                            </div>
                         </div>

@@ -20,7 +20,7 @@
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">9525 Exam Dr,, <br>
-                               Devops Ohio, 43001 <br> United States America</p><!-- /.contact-info-one__text -->
+                               Devops Ohio, 43001 <br> America</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
